@@ -1,16 +1,39 @@
-# React + Vite
+Minhas Receitas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação simples desenvolvida em React para estudo de conceitos básicos de CRUD (Create, Read, Update, Delete).
 
-Currently, two official plugins are available:
+🚀 Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  ⚡ Vite — Build tool rápida para desenvolvimento com React
 
-## React Compiler
+  ⚛️ React JS — Biblioteca para construção da interface
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+  🎨 Tailwind CSS — Estilização com classes utilitárias
 
-## Expanding the ESLint configuration
+✅ Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✔️ Listagem de receitas cadastradas
+✔️ Visualização de detalhes de uma receita
+✔️ Criação de novas receitas
+✔️ Edição de receitas existentes
+✔️ Exclusão de receitas
+✔️ Interface responsiva e com tema escuro (dark mode)
+
+🛠 Como Executar o Projeto
+# Clone o repositório
+git clone https://github.com/seu-usuario/minhas-receitas.git
+
+# Acesse a pasta
+cd minhas-receitas
+
+# Instale as dependências
+npm install
+
+# Inicie o servidor
+npm run dev
+
+📸 Prévia da Interface (opcional)
+
+![Home](./public/img/home.png)
+![Detalhes](./public/img/detail.png)
+![Form](./public/img/form.png)
