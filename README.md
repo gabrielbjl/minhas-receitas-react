@@ -32,7 +32,7 @@ npm install
 # Inicie o servidor
 npm run dev
 
-📸 Prévia da Interface (opcional)
+📸 Prévia da Interface 
 
 ![Home](./public/img/home.png)
 ![Detalhes](./public/img/detail.png)
